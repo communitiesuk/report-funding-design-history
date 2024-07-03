@@ -24,7 +24,7 @@ To make this change, we:
 
 We are hopeful that these changes will improve the experience for users and plan to test this in future. 
 
-## Adding content to the filters page
+### Adding content to the filters page
 
 We updated the title of the page to ‘Get monitoring and evaluation data’ to more accurately reflect the users’ action on the page. They are requesting a data download it at this point, not downloading it.
 
@@ -32,14 +32,14 @@ We also changed the content on the button to ‘Confirm and request data’ to m
 
 ![Screenshot of a page title ‘Get monitoring and evaluation data’.](05-filter-page.png)
 
-## ‘Request received’ confirmation page 
+### ‘Request received’ confirmation page 
 As soon as the user clicks on ‘Confirm and request data’ they are taken to a confirmation page to let them know that: 
 
 - their request has been received 
 - they will receive an email within 5 minutes containing a link to download the data 
 - they can contact us if they need help  
 
-## Improving the content in the email  
+### Improving the content in the email  
 We improved the formatting and content in the notification email. We send this email to the user once the download is ready to be accessed. 
 
 ![Screenshot of a page title ‘Download your file email’.](04-email.png)
