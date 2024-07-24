@@ -81,7 +81,6 @@ The Section 151 Officer will receive an email to confirm they have declined the 
 
 ![Screenshot of a page title ‘Report declined email’.](12-you-declined-a-report.png)
 
-
 At this point, the reporter will be able to make changes to the report and resend for review.
 
 ## Future considerations
