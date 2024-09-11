@@ -20,6 +20,8 @@ This relates to two validated user needs:
 
 - **As a** reporter - **I need** to share the report with the people responsible for signing it off (for example, a Section 151 Officer) - **So that** I can make sure I've followed the right processes when submitting the final report 
 
+---
+
 ## The current sign off process
 
 We know that the sign off process is currently inconsistent from one fund team to another. There is no audit trail within our digital service as this is mainly done via conversations and manual emails between the reporter and the person signing off the report. Some fund teams require a wet signature while others don’t. 
@@ -27,6 +29,8 @@ We know that the sign off process is currently inconsistent from one fund team t
 In our MVP version of submit, a reporter can upload an amended report over the top of an existing one. This is problematic as there’s a risk a report could be updated by the reporter after it has already been signed off by the person responsible. 
 
 We hope that our solution will speed up the sign off process for both the reporter and the person signing off the report. We also anticipate that our automated emails, reminders and audit trail will also help users to submit signed off reports on time.
+
+---
 
 ## What we did
 
@@ -88,6 +92,8 @@ The Section 151 Officer will receive an email to confirm they have declined the 
 ![Screenshot of a page title ‘Report declined email’.](12-you-declined-a-report.png)
 
 At this point, the reporter will be able to make changes to the report and resend for review.
+
+---
 
 ## Future considerations
 
