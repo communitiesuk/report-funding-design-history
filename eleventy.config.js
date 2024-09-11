@@ -8,10 +8,9 @@ module.exports = function (eleventyConfig) {
     return collection.getFilteredByGlob('app/posts/find-monitoring-data/*.md')
   })
 
-  eleventyConfig.addCollection('funding-service-design', collection => {
-    return collection.getFilteredByGlob('app/posts/funding-service-design/*.md')
+  eleventyConfig.addCollection('report-funding-progress', collection => {
+    return collection.getFilteredByGlob('app/posts/report-funding-progress/*.md')
   })
-
 
   eleventyConfig.addCollection('submit-monitoring-and-evaluation-data', collection => {
     return collection.getFilteredByGlob('app/posts/submit-monitoring-and-evaluation-data/*.md')
