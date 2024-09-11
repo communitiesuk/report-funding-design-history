@@ -5,6 +5,10 @@ date: 2024-07-24
 tags:
   - report
   - section 151 officer 
+related:
+  items:
+    - text: Link to specific pages
+      href: 
 ---
 
 We know from our previous testing and feedback gathering that there is a need for grant recipients to be able to share a funding progress report with others. This is so they can:
@@ -32,7 +36,9 @@ We introduced a basic permissions model where a reporter can send a report for r
 ### What the reporter sees
 When the reporter has completed all parts of the report from the task list, they will be able to review it and ‘Send report for review’.
 
-![Screenshot of a page title ‘Send report for review’.](01-check-your-answers-reporting-funding-progress.png)
+![Screenshot of a page title ‘Send report for review’.](01-check-your-answers-reporting-funding-progress.png "Check your answers")
+
+
 
 Once the report has been sent, the status of the report on the task list would change to ‘Sent for review’ and the reporter will be unable to make any changes.
 
