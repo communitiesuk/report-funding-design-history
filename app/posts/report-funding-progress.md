@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: Report Funding Progress
-description: A tool for support agents to manage the service
+description: A service where fund recipients can report their progress on funded projects and programmes.
 related:
   items:
     - text: Prototype

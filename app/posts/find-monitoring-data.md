@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: Find monitoring data
-description: Opening paragraph needed to explain section of the department and what the services do
+description: A way to find monitoring and evaluation data for funded projects and programmes.
 related:
   items:
     - text: Prototype
