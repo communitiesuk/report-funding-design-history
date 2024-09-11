@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: Funding Service design
+title: Funding service design
 description: A tool for support agents to manage the service
 pagination:
   data: collections.funding-service-design
