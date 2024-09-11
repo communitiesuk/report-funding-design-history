@@ -4,6 +4,8 @@ description: When users download data from Find monitoring data (Find), they use
 date: 2024-06-20    
 tags:
   - data
+  - download
+  - find
 ---
 
 When users download data from Find monitoring data (Find), they use filters to choose which data they’d like to be included in a data file (Microsoft Excel or JSON). Depending on the amount of data, the file may take a few seconds to several minutes to download. This could cause confusion for the user as they cannot see any visual on the page to indicate that the download is in progress. The risk is that they may leave the page or try to download the data again. 
